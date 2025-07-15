@@ -7,11 +7,10 @@ Welcome to my GitHub profile. I’m passionate about AI, machine learning, physi
 - 🌱 Learning advanced ML techniques
 - lIke nerual networks and machine vision techniques
 - 📫 Contact me: [jeff.d.calderon@gmail.com](mailto:jeff.d.calderon@gmail.com)
-- Website I made:
-- 
+- [linkedin](https://www.linkedin.com/in/jeffdcalderon/)
 
 ## Featured Projects
 - [RAG Project](https://github.com/aggressor-FZX/awesome-project)
 - [IMDB Movie Nural Net](https://github.com/aggressor-FZX?tab=repositories)
 - [Active Demo Site](https://www.cogitometric.org/)
-- [linkedin](https://www.linkedin.com/in/jeffdcalderon/)
+
