@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I’m passionate about AI, machine learning, physi
 - Active President of the AI club at Everett Community College (also a U of Maryland grad)
 - Just made a WSU course advisor chat bot to help select classes (I go there too), provide dates times of courses, and fellow Cougars in the right direction.
 - 🌱 Learning advanced ML techniques
-- lIke nerual networks and machine vision techniques
+- Nerual networks and machine vision techniques
 - 📫 Contact me: [jeff.d.calderon@gmail.com](mailto:jeff.d.calderon@gmail.com)
 - [linkedin](https://www.linkedin.com/in/jeffdcalderon/)
 
