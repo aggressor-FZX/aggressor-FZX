@@ -12,5 +12,5 @@ Welcome to my GitHub profile. I’m passionate about AI, machine learning, physi
 
 ## Featured Projects
 - [Awesome Project](https://github.com/aggressor-FZX/awesome-project)
-- [React Portfolio](https://www.cogitometric.org/)
+- [Active Demo Site](https://www.cogitometric.org/)
 - [linkedin](https://www.linkedin.com/in/jeffdcalderon/)
