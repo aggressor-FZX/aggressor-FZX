@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Jeff! 👋
 
-<!--
-**aggressor-FZX/aggressor-FZX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I’m passionate about AI, machine learning, physics, and data science.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on AI-powered projects
+- Just made a WSU course advisor chat bot to help select classes, provide dates times of courses, and steer you in the right direction for more inoformation.
+- 🌱 Learning advanced ML techniques
+- lIke nerual networks and machine vision techniques
+- 📫 Contact me: [jeff.d.calderon@gmail.com](mailto:jeff.d.calderon@gmail.com)
+- Website I made:
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [Awesome Project](https://github.com/aggressor-FZX/awesome-project)
+- [React Portfolio](https://www.cogitometric.org/)
+- [linkedin](https://www.linkedin.com/in/jeffdcalderon/)
