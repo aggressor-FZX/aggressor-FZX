@@ -12,6 +12,6 @@ Welcome to my GitHub profile. I’m passionate about AI, machine learning, physi
 
 ## Featured Projects
 - [RAG Project](https://github.com/aggressor-FZX/awesome-project)
-- [IMDB Movie Nural Net](https://github.com/aggressor-FZX?tab=repositories)
+- [IMDB Movie Neural Net](https://github.com/aggressor-FZX?tab=repositories)
 - [Active Demo Site](https://www.cogitometric.org/)
 
