@@ -3,6 +3,8 @@
 Welcome to my GitHub profile. I’m passionate about AI, machine learning, physics, and data science.
 
 - 🔭 Currently working on AI-powered projects
+- Active President of the AI club at Everett Community College
+- University of Maryland Physics graduate
 - Just made a WSU course advisor chat bot to help select classes, provide dates times of courses, and fellow Cougars in the right direction.
 - 🌱 Learning advanced ML techniques
 - lIke nerual networks and machine vision techniques
