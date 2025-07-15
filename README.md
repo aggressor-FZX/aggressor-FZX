@@ -11,6 +11,7 @@ Welcome to my GitHub profile. I’m passionate about AI, machine learning, physi
 - 
 
 ## Featured Projects
-- [Awesome Project](https://github.com/aggressor-FZX/awesome-project)
+- [RAG Project](https://github.com/aggressor-FZX/awesome-project)
+- [IMDB Movie Nural Net](https://github.com/aggressor-FZX?tab=repositories)
 - [Active Demo Site](https://www.cogitometric.org/)
 - [linkedin](https://www.linkedin.com/in/jeffdcalderon/)
