@@ -12,6 +12,6 @@ Welcome to my GitHub profile. I’m passionate about AI, machine learning, physi
 
 ## Featured Projects
 - [RAG Project](https://github.com/aggressor-FZX/awesome-project)
-- [IMDB Movie Neural Net](https://github.com/aggressor-FZX?tab=repositories)
+- [Computer Vision and Inpainting](https://github.com/aggressor-FZX/AI_Inpainting_mvp)
 - [Active Demo Site](https://www.cogitometric.org/)
 
