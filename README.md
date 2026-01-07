@@ -15,5 +15,4 @@ Welcome to my GitHub profile. I’m passionate about AI, machine learning, physi
 - [RAG Project](https://github.com/aggressor-FZX/awesome-project)
 - [Computer Vision and Inpainting](https://github.com/aggressor-FZX/AI_Inpainting_mvp)
 - [Active Demo Site](https://www.cogitometric.org/)
-- Realtime inpainting vision model (private repo for now)
-
+- Fine tuned 70 B model specialized for resume writing and profosional writing https://huggingface.co/jeff-calderon/Magnum-72B-Imaginator-LoRA
